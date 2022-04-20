@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadun Dilshan</h1>
 <h3 align="center">Undergraduate Student In SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndilsh&label=Profile%20views&color=0e75b6&style=flat" alt="ndilsh" /> </p>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NDilsh">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilsh" alt="ndilsh" /></a> </p>
 
