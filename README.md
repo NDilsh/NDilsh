@@ -5,8 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=NDilsh">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilsh" alt="ndilsh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilsh" alt="ndilsh" /></a> </p> -->
 
 - 🔭 I’m currently learning on **SLIIT**
 
