@@ -1,15 +1,16 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nadun Dilshan</h1>
 <h3 align="center">Undergraduate Student In SLIIT</h3>
 
-## Views and Followers <img src= 'https://media4.giphy.com/media/3WuYqcEnVxoYVyrMVM/giphy.gif?cid=790b7611e9d65cc25ee5dd772770b7181f338d2c0e55ab2a&rid=giphy.gif&ct=s' width="50">
+## Views and Followers <img src= 'https://media1.giphy.com/media/j2YKTYK7hx9tV9wjnJ/giphy.gif?cid=790b76112a805a64c4f87da56c0de46b5d339e681ff24597&rid=giphy.gif&ct=s' width="75">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NDilsh">
 </a> &nbsp;
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a>
-<br/>
+<br />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilsh" alt="ndilsh" /></a> </p> -->
 
+## About Me <img src= 'https://media0.giphy.com/media/W0WC0Gum1ayZxzIgI4/giphy.gif?cid=790b7611e19903b771986696a0e161b4f2e9a48d0d76b761&rid=giphy.gif&ct=s' width="25">
 - 🔭 I’m currently learning on **SLIIT**
 
 - 🌱 I’m currently learning **Software Engineering @SLIIT**
