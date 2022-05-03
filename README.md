@@ -53,8 +53,8 @@
 
   <br/>
   <p align="left">
-    <a href="https://github.com/NDilsh/github-readme-stats"><img  alt="Nadun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDilsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060b0d" /></a>&nbsp;
-    <a href="https://github.com/NDilsh/github-readme-streak-stats"><img  alt="Nadun Dilshan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=NDilsh&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=060b0d&stroke=060b0d" />
+    <a href="https://github.com/NDilsh/github-readme-stats"><img width="49.5%" alt="Nadun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDilsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060b0d" /></a>&nbsp;
+    <a href="https://github.com/NDilsh/github-readme-streak-stats"><img width="49.5%" alt="Nadun Dilshan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=NDilsh&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=060b0d&stroke=060b0d" />
     </a>
   </p>
   <p align="left">
