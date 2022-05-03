@@ -41,28 +41,28 @@
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndilsh&show_icons=true&locale=en" alt="ndilsh" /></p>
  -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/
         NDilsh/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDilsh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/NDilsh/github-readme-stats"><img alt="Nadun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDilsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="left">
+    <a href="https://github.com/NDilsh/github-readme-stats"><img  alt="Nadun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDilsh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060b0d" /></a>&nbsp;
+    <a href="https://github.com/NDilsh/github-readme-streak-stats"><img  alt="Nadun Dilshan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=NDilsh&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=060b0d&stroke=060b0d" />
+    </a>
+  </p>
+  <p align="left">
   <a href="https://github.com/
-NDilsh/github-readme-stats"><img alt="Nadun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDilsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+NDilsh/github-readme-stats"><img alt="Nadun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDilsh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060b0d" /></a>
+  </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
-
-<a href="https://github.com/NDilsh/github-readme-activity-graph"><img alt="Nadun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NDilsh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
-<br/>
+<a href="https://github.com/NDilsh/github-readme-activity-graph"><img alt="Nadun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NDilsh&bg_color=060b0d&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
