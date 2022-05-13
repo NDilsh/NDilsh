@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Nadun Dilshan</h1>
 <h3 align="center">Undergraduate Student In SLIIT</h3>
 
-## Views and Followers <img src= 'https://media1.giphy.com/media/j2YKTYK7hx9tV9wjnJ/giphy.gif?cid=790b76112a805a64c4f87da56c0de46b5d339e681ff24597&rid=giphy.gif&ct=s' width="75">
+## Views and Followers <img src= 'https://media1.giphy.com/media/j2YKTYK7hx9tV9wjnJ/giphy.gif?cid=790b76112a805a64c4f87da56c0de46b5d339e681ff24597&rid=giphy.gif&ct=s' width="50">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NDilsh">
 </a> &nbsp;
