@@ -5,7 +5,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NDilsh">
 </a> &nbsp;
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NDilsh?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndilsh" alt="ndilsh" /></a> </p> -->
