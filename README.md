@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=7152FF&center=true&vCenter=true&width=1100&height=40&lines=Nadun+Dilshan;Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1100&height=38&lines=HI+there%2C+I'm+Nadun+Dilshan;a+Web+Developer;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 ## Views and Followers <img src= 'https://media1.giphy.com/media/j2YKTYK7hx9tV9wjnJ/giphy.gif?cid=790b76112a805a64c4f87da56c0de46b5d339e681ff24597&rid=giphy.gif&ct=s' width="50">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
