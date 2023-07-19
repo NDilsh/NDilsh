@@ -141,7 +141,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="185" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="185"  />
+<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="180" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="180"  />
 
 
 
@@ -176,32 +176,32 @@
 
 <div align="center">
   <a href="mailto:nadundilsh31@gmail.com" target="_blank">
-    <img src="https://icon-library.com/images/apps-gmail.svg.svg" height="50" alt="gmail logo"  />
+    <img src="https://icon-library.com/images/apps-gmail.svg.svg" height="45" alt="gmail logo"  />
     <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />-->
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ndilsh" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin logo"  />
   <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />-->
   </a>
   &nbsp;
   <a href="https://fb.com/nadun.dilshan.wijesiriwardana" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" height="50" alt="facebook logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" height="45" alt="facebook logo"  />
     <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />-->
   </a>
   &nbsp;
   <a href="https://instagram.com/n_dilsh" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  />
     <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />-->
   </a>
   &nbsp;
   <a href="discordapp.com/users/648201617899782187" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
     <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />-->
   </a>
   &nbsp;
   <a href="https://twitter.com/NDilsh31" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter logo"  />
     <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />-->
   </a>
 </div>
