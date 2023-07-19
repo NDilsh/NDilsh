@@ -141,7 +141,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="155" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="155"  />
+<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="158" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="158"  />
 
 
 
