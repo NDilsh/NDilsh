@@ -155,7 +155,7 @@
 </td></tr>
 </table>
 
-<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="285" width="" style="border-radius: 25px"/></a>
+<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="288" width="" style="border-radius: 25px"/></a>
 
 
 <!--<div align="center">-->
