@@ -141,7 +141,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="180" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="180"  />
+<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="175" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="175"  />
 
 
 
@@ -155,7 +155,7 @@
 </td></tr>
 </table>
 
-<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="323" width="" style="border-radius: 25px"/></a>
+<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="322" width="" style="border-radius: 25px"/></a>
 
 
 <!--<div align="center">-->
