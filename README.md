@@ -133,46 +133,40 @@
 
 ###
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=NDilsh&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
-<!-- <a href="https://github.com/NDilsh?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a> -->
-<a href="https://github.com/NDilsh?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NDilsh?color=236ad3&style=for-the-badge&logo=github&label=Followers"/></a>
-</div>
-<br>
-<div align="center">
-<table>
-<tr><td align="top" width="50%">
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25&order=1" height="200" width="100%" alt="stats graph"  />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25&order=3" height="200" width="100%" alt="streak graph"  />
-</div>
+
+<!-- <a href="https://github.com/NDilsh?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/NDilsh?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NDilsh?color=236ad3&style=for-the-badge&logo=github&label=Followers" height="28" style="border-radius: 4px"/></a>
+<a href="https://github.com/NDilsh"><img src="https://visitcount.itsvg.in/api?id=NDilsh&label=Profile%20Views&color=1&icon=5&pretty=false" height="28" /></a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=NDilsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=25" height="190" alt="stats graph" />&nbsp;&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=NDilsh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=25" alt="streak graph" height="190"  />
+
+
+
+<table>
+<tr><td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NDilsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=true&border_radius=25" width="100%" alt="languages graph" />
 </td>
 <td align="top" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=NDilsh&row=2&column=4&theme=onedark&no-frame=true&no-bg=false&margin-h=4&margin-w=4" width="100%"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NDilsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=true&border_radius=25&order=2" height="200" width="100%" alt="languages graph"  />
-</div>
+</td></tr>
+</table>
 
-</td></tr></table>
-</div>
+<a href="https://github.com/Nadun/github-readme-activity-graph"><img alt="Nadun's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=true" height="333" width="" style="border-radius: 25px"/></a>
 
-<br>
-<div align="center">
 
-  ![](https://github-profile-trophy.vercel.app/?username=NDilsh&column=7&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+<!--<div align="center">-->
+
+  <!--![](https://github-profile-trophy.vercel.app/?username=NDilsh&column=7&theme=onedark&no-frame=true&no-bg=false&margin-w=4)-->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=NDilsh&column=7&theme=onedark&no-frame=true&no-bg=false" />-->
 <br>
-
-  [![Nadun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=false&border_radius=25)](https://github.com/Nadun/github-readme-activity-graph)
-  
 </div>
-
-
+  <!-- [![Nadun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NDilsh&bg_color=282a38&color=ffffff&line=79dafa&point=dd6387&area=true&hide_border=false)](https://github.com/Nadun/github-readme-activity-graph) -->
+<!--</div> -->
 
 ###
 
@@ -182,22 +176,33 @@
 
 <div align="center">
   <a href="mailto:nadundilsh31@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://icon-library.com/images/apps-gmail.svg.svg" height="50" alt="gmail logo"  />
+    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />-->
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ndilsh" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
+  <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />-->
   </a>
+  &nbsp;
   <a href="https://fb.com/nadun.dilshan.wijesiriwardana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" height="50" alt="facebook logo"  />
+    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />-->
   </a>
+  &nbsp;
   <a href="https://instagram.com/n_dilsh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo"  />
+    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />-->
   </a>
+  &nbsp;
   <a href="discordapp.com/users/648201617899782187" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />-->
   </a>
+  &nbsp;
   <a href="https://twitter.com/NDilsh31" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter logo"  />
+    <!--<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />-->
   </a>
 </div>
 
