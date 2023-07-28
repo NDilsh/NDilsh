@@ -136,8 +136,9 @@
 
 
 <!-- <a href="https://github.com/NDilsh?tab=followers"><img src="https://img.shields.io/github/followers/NDilsh?label=Followers&style=social" alt="GitHub Badge"></a> -->
-<a href="https://github.com/NDilsh?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NDilsh?color=236ad3&style=for-the-badge&logo=github&label=Followers" height="28" style="border-radius: 4px"/></a>
-<a href="https://github.com/NDilsh"><img src="https://visitcount.itsvg.in/api?id=NDilsh&label=Profile%20Views&color=1&icon=5&pretty=false" height="28" /></a>
+<a href="https://github.com/NDilsh?tab=followers"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/NDilsh?color=236ad3&style=for-the-badge&logo=github&label=Followers" height="28" style="border-radius: 4px"/></a><a href="https://github.com/NDilsh">
+<img src="https://komarev.com/ghpvc/?username=NDilsh&style=for-the-badge&label=👀+PROFILE+VIEWS+ +&color=236ad3" height="28" style="border-radius: 4px" /></a>
+<!--<a href="https://github.com/NDilsh"><img src="https://visitcount.itsvg.in/api?id=NDilsh&label=Profile%20Views&color=1&icon=5&pretty=false" height="28" /></a> -->
 
 
 
